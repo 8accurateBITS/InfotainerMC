@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "id": "infotainer",
+  "version": "1.0.0",
+  "name": "Infotainer",
+  "entrypoints": {
+    "client": ["de.infotainer.InfotainerMod"]
+  }
+}
